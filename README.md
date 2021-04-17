@@ -7,3 +7,6 @@
 ## Technologies
  * Java
  * Android studio
+
+##NOTE
+code will be uplode soon
